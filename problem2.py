@@ -9,6 +9,6 @@ def maxprofit(prices):
     return max_profit      
          
 
-prices =[7,6,8,8,10,7,20,55,2,5] 
+prices =[7,6,8,9,10,7,20,55,2,5] 
 result = maxprofit(prices)
 print('big profit', result)
